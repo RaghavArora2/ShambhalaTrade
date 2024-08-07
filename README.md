@@ -25,7 +25,7 @@ The app fetches real-time cryptocurrency data and prices from CoinGecko and Gemi
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/your-username/your-repository.git](https://github.com/RaghavArora2/ShambhalaTrade
    ```
 
 2. **Navigate to the backend directory:**
