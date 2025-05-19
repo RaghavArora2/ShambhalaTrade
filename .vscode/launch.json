@@ -1,0 +1,23 @@
+{
+    "type": "java",
+    "name": "Spring Boot-ShambhalaTrade<shambhala-trade>",
+    "request": "launch",
+    "cwd": "${workspaceFolder}",
+    "mainClass": "com.raghav.TradingPlatformApplication",
+    "projectName": "shambhala-trade",
+    "args": "",
+    "envFile": "${workspaceFolder}/.env",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Spring Boot-TradingPlatformApplication<Shambhala-Trade>",
+        "request": "launch",
+        "cwd": "${workspaceFolder}",
+        "mainClass": "com.raghav.TradingPlatformApplication",
+        "projectName": "Shambhala-Trade",
+        "args": "",
+        "envFile": "${workspaceFolder}/.env"
+      }
+    ]
+  }
+  
